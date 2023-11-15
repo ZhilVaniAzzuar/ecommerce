@@ -1,5 +1,5 @@
 <template>
     <footer>
-        <h1>SMK Coding</h1>
+        <h1>SMK Coding - ZhielVn</h1>
     </footer>
 </template>
